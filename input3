@@ -1,0 +1,6 @@
+main()
+{
+int x11;
+int aegwg;
+printvar 3+4;
+}
